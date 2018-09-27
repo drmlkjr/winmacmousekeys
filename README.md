@@ -1,2 +1,2 @@
 # winmacmousekeys
-A work in progress for replicating windows mouse keys on a mac, really just a collection of apple scripts for now that work with 'MouseTools'
+Just a bunch of random mousekey applescripts I made, I doubt they will work out the box if you actually download this  You'll have to get mousetools and change the install directories.
